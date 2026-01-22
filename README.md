@@ -98,7 +98,7 @@ This tool works on most Linux devices that use NetworkManager and systemd.
 ### ⬇️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wifi-ap-auto-switcher.git
+git clone https://github.com/GratifluxTools/wifi-ap-auto-switcher.git
 cd wifi-ap-auto-switcher
 chmod +x wifi_ap_configurator.sh
 sudo ./wifi_ap_configurator.sh
@@ -326,7 +326,7 @@ READMEおよびドキュメントは日英両対応です。
 ### ⬇️ インストール方法
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wifi-ap-auto-switcher.git
+git clone https://github.com/GratifluxTools/wifi-ap-auto-switcher.git
 cd wifi-ap-auto-switcher
 chmod +x wifi_ap_configurator.sh
 sudo ./wifi_ap_configurator.sh
